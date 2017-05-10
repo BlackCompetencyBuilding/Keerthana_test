@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>CustomerOnBoard</groupId>
   <artifactId>CustomerOnBoard</artifactId>
-  <version>0.0.1-SNAPSHOT-${build.number}</version>
+  <version>SNAPSHOT-${build.number}</version>
   <packaging>war</packaging>
   <name>CustomerOnboard</name>
   <description>Application for customer onboarding</description>
